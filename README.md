@@ -6,3 +6,6 @@ Created digital illustration using vector art in FIGMA.
 
 ![project](https://github.com/user-attachments/assets/5130cdd9-d5c2-4f51-9e2c-c8b5a1770f2c)
 ![samantha](https://github.com/user-attachments/assets/1a06a04f-2bc6-4c35-a374-4301cceb541e)
+
+![project 3](https://github.com/user-attachments/assets/f3a9ba8d-5ad8-45d2-b9c2-0c6cb2cefbae)
+![wedding](https://github.com/user-attachments/assets/587c2f3c-7177-4ced-bd69-9998c62c8c4f)

@@ -1,4 +1,4 @@
-# Vector-art-Digital-Illustrations-
+# Vector-art
 Created digital illustration using vector art in FIGMA.
 
 ![project](https://github.com/user-attachments/assets/8ced70c3-a6de-4254-ab1e-a25b2dc68fa6)

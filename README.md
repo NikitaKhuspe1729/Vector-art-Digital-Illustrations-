@@ -1,11 +1,14 @@
 # Vector-art-Figma
 Created digital illustration using vector art in FIGMA.
 
-![project](https://github.com/user-attachments/assets/8ced70c3-a6de-4254-ab1e-a25b2dc68fa6)
+![project1](https://github.com/user-attachments/assets/fac81db5-0cea-49d4-9ff4-9beea17cc05b)
 ![Sai pallavi](https://github.com/user-attachments/assets/f44ad992-9f37-416f-b8bc-29ef17e1d720)
 
-![project](https://github.com/user-attachments/assets/5130cdd9-d5c2-4f51-9e2c-c8b5a1770f2c)
+![project 2](https://github.com/user-attachments/assets/edd4c32f-84dd-4747-a5be-0841334471b4)
 ![samantha](https://github.com/user-attachments/assets/1a06a04f-2bc6-4c35-a374-4301cceb541e)
 
-![project 3](https://github.com/user-attachments/assets/f3a9ba8d-5ad8-45d2-b9c2-0c6cb2cefbae)
+![project 3](https://github.com/user-attachments/assets/094d3485-b238-42ae-a989-348871eff89c)
+![project 4](https://github.com/user-attachments/assets/9fc68b3e-0922-41d6-90dc-5b075b5ab3f5)
+
+
 ![wedding](https://github.com/user-attachments/assets/587c2f3c-7177-4ced-bd69-9998c62c8c4f)
